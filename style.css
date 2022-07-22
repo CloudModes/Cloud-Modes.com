@@ -24,6 +24,7 @@
 .menu-icon{
     width: 35px;
     cursor: pointer;
+    display: none;
 }
 nav{
     flex: 1;
