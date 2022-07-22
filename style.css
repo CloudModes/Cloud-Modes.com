@@ -142,7 +142,7 @@ button:hover{
         width: 100%;
         background: linear-gradient(#ff54a2, #ff575a);
         position: absolute;
-        top: 75px;
+        top: 100px;
         right: 0;
         z-index: 2;
     }
