@@ -126,8 +126,8 @@ button:hover{
     transform: translateX(150px);
 }
 .social-link img{
-    height: 16px;
-    margin: 30px;
+    height: 13px;
+    margin: 20px;
     cursor: pointer;
 }
 .social-link{
