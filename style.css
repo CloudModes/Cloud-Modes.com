@@ -99,7 +99,7 @@ button:hover{
 .col-1::after{
     content: '';
     width: 10px;
-    height: 62%;
+    height: 57%;
     background: linear-gradient(#ff469f, #ff6062);
     position: absolute;
     left: -40px;
