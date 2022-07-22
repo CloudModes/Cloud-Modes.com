@@ -121,7 +121,7 @@ button:hover{
     background: linear-gradient(#ff54a2, #ff575a);
     border-radius: 20px 0 0 20px;
     height: 100%;
-    width: 80%;
+    width: 40%;
     z-index: -1;
     transform: translateX(150px);
 }
