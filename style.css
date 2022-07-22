@@ -51,9 +51,8 @@ nav ul li a:hover{
 }
 .col-1{
     flex-basis: 40%;
-    justify-content: space-between;
-    align-items: center;
-    margin: 50px;
+    position: relative;
+    margin-left: 50px;
 }    
 .col-1 h2{
     font-size: 54px;
